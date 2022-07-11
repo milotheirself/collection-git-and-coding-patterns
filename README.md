@@ -65,6 +65,44 @@ The body is optional. If it is provided there should be a blank line between it 
 The footer is optional. If it is provided there should be a blank line between it and the body. It must be broken into lines of no more than 256 characters.
 
 ---
+---
+
+# Markdown
+
+## Editor
+
+[Typora](https://typora.io/)
+
+## Markdown Charts
+
+[Mermaid](https://mermaid-js.github.io/mermaid/#/README?id=diagram-types)
+
+```mermaid
+classDiagram
+    Animal <|-- Duck
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
+```
+
+---
+---
 
 # Coding Patterns
 
