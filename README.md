@@ -103,7 +103,8 @@ classDiagram
         +run()
     }
 ```
-
+`
+````md
 ```mermaid
 classDiagram
     Animal <|-- Duck
@@ -127,6 +128,7 @@ classDiagram
         +run()
     }
 ```
+````
 
 ---
 
