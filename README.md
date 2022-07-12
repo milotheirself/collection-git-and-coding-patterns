@@ -78,7 +78,7 @@ The footer is optional. If it is provided there should be a blank line between i
 
 **Markdown Charts –**
 
-[Mermaid](https://mermaid-js.github.io/mermaid/#/README?id=diagram-types)
+[Mermaid](https://mermaid-js.github.io/mermaid/#/README?id=diagram-types) ([Sandbox](https://mermaid-js.github.io/mermaid-live-editor/edit))
 
 ```mermaid
 classDiagram
