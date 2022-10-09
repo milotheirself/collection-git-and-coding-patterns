@@ -136,6 +136,9 @@ classDiagram
 
 # Coding Patterns
 
+**Abstract syntax tree –**
+https://en.wikipedia.org/wiki/Abstract_syntax_tree
+
 **Monads –**
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/C2w45qRc3aU/0.jpg)](https://www.youtube.com/watch?v=C2w45qRc3aU)
